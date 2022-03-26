@@ -5,5 +5,7 @@ public class Hello{
 
         System.out.println("I am Thirsty");
         System.out.println("I want to drink water");
+        System.out.println("I want to Drink Lemonade");
+        
     }
 }
