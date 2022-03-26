@@ -4,5 +4,6 @@ public class Hello{
         System.out.println("Hey! I am Good");
 
         System.out.println("I am Thirsty");
+        System.out.println("I want to drink water");
     }
 }
